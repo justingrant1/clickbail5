@@ -1,4 +1,3 @@
 {
-  "buildCommand": "npm install --legacy-peer-deps && next build",
-  "source": "clickbail-p8"
+  "buildCommand": "npm install --legacy-peer-deps && next build"
 }
